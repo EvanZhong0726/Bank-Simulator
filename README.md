@@ -1,6 +1,6 @@
 # Bank Simulator
 
-A bank simulator built in Java that allows users to perform a series of banking actions, including opening an account, closing an account, deposit money, transfer money, withdrow money, and loan money from the bank
+A bank simulator built in Java following test-driven development concept. It allows users to perform a series of banking actions, including opening different types of accounts, closing an account, depositing money, transfering money, withdrawing money, loaning money from the bank, and displaying a user profile.
 
 
 ### Script
